@@ -106,4 +106,5 @@ theme: arknights
 deploy:
   type: git
   repo: https://github.com/jayvenlee/jayvenlee.github.io
+  branch: master
   # example, https://github.com/hexojs/hexojs.github.io
